@@ -122,6 +122,3 @@ deactivate
 2. **`mbed_app.json5` 快速生成**
    * **Prefix**: `mbed-app`
    * **功能**：一鍵生成上述預設包含 `NUCLEO_F446RE` 的 `mbed_app.json5` 設定模板。
-
-# exoskeleton-mbed2
-# exoskeleton-mbed2
